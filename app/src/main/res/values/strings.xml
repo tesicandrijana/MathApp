@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MathApp</string>
+    <string name="score">Score: %d</string>
+    <string name="problem">"%1$s %2$s %3$s = "</string>
+    <string name="livesLeft">Lives: %1$s</string>
+    <string name="play_again">Play Again</string>
+    <string name="go_back">Go back</string>
+    <string name="alert_dialog_score">You scored: %1$s</string>
+    <string name="time_left">Timer: %1$s</string>
+    <string name="welcome_to_math_game">Welcome to Math Game!</string>
+    <string name="start_game">Start Game</string>
+    <string name="instructions">Instructions</string>
+    <string name="play_game">Play game</string>
+    <string name="back_button">Go back</string>
+    <string name="share_subject">My Math Game Score</string>
+    <string name="share_summary">I scored %d points in the Math Game!</string>
+    <string name="share_score">Share score</string>
+    <string name="submit">Submit</string>
+    <string name="game_ended">Game Ended</string>
+    <string name="home">Home</string>
+    <string name="incorrect_answer">Incorrect answer! Try again.</string>
+    <string name="correct_answer">Correct answer!</string>
+    <string name="game_instructions">
+        The goal of the game is to practice addition and subtraction of single-digit numbers.
+        The game starts with a randomly generated math problem displayed on the screen.
+        Enter your answer in the provided input field and press the Submit button to confirm your answer.
+        If your answer is correct, you will earn points and a new math operation will be displayed. If the answer is incorrect, you will lose points and a new math operation will be displayed.
+        Throughout the game, your current score, the number of remaining lives, and the time left to input the answer will be tracked.
+        The game ends when you lose all lives or solve the given number of problems.
+        At the end of the game, your final score will be displayed along with options to play again or return to the start screen.
+        If you wish to share your score with friends, you can use the share button in the app.
+        Good luck and enjoy the game!
+    </string>
+</resources>

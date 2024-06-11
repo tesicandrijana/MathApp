@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matematička Aplikacija</string>
+    <string name="score">Rezultat: %d</string>
+    <string name="problem">"%1$s %2$s %3$s = "</string>
+    <string name="livesLeft">Životi: %1$s</string>
+    <string name="play_again">Igraj ponovo</string>
+    <string name="go_back">Vrati se</string>
+    <string name="alert_dialog_score">Osvojili ste: %1$s</string>
+    <string name="time_left">Štoperica: %1$s</string>
+    <string name="welcome_to_math_game">Dobrodošli u Matematičku Igru!</string>
+    <string name="start_game">Počni igru</string>
+    <string name="instructions">Upute</string>
+    <string name="play_game">Igraj igru</string>
+    <string name="back_button">Vrati se</string>
+    <string name="share_subject">Moj rezultat u Matematičkoj igri</string>
+    <string name="share_summary">Osvojio/la sam %d bodova u Matematičkoj Igri!</string>
+    <string name="share_score">Podijeli rezultat</string>
+    <string name="submit">Pošalji</string>
+    <string name="game_ended">Igra je završena</string>
+    <string name="home">Početna</string>
+    <string name="incorrect_answer">Incorrect answer! Try again.</string>
+    <string name="correct_answer">Correct answer!</string>
+    <string name="game_instructions">
+        Cilj igre je vježbanje sabiranja i oduzimanja jednocifrenih brojeva.
+        Igra počinje sa nasumično generisanim matematičkim problemom koji se prikazuje na ekranu.
+        Unesite vaš odgovor u predviđeno polje za unos i pritisnite dugme Submit za potvrdu vašeg odgovora.
+        Ako je vaš odgovor tačan, dobićete bodove i prikazaće se nova matematička operacija. Ako je odgovor netačan, izgubićete bodove i prikazaće se nova matematička operacija.
+        Tokom igre, pratiće se vaš trenutni rezultat, broj preostalih života i vrijeme preostalo za unos odgovora.
+        Igra se završava kada izgubite sve živote ili riješite zadani broj problema.
+        Na kraju igre, biće prikazana vaša konačna ocjena i opcije za ponovno igranje ili povratak na početni ekran.
+        Ukoliko želite da podijelite svoj rezultat sa prijateljima, možete koristiti dugme za dijeljenje koje se nalazi u aplikaciji.
+        Sretno i uživajte u igri!
+    </string>
+</resources>
